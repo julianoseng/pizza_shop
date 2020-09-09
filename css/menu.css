@@ -1,0 +1,31 @@
+
+h1 {
+    padding: 40px;
+}
+
+.grid {
+    /* border: 1px #ccc solid; */
+    float:left;
+}
+
+.grid div {
+    float: left;
+    padding: 10px;
+    padding-bottom: 75px;
+}
+
+.grid div img{
+    width: 400px;
+    
+    
+}
+
+footer {
+   display: none;
+}
+
+@media (max-width:899px) {
+  
+    .menu_item {
+    }
+}
