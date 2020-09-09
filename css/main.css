@@ -2,7 +2,16 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
+
+html {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 
 .nav_links {
     display: flex;
@@ -23,7 +32,7 @@
 body {
     text-align: center;
     margin: 0 300px 0 300px;
-
+    background: url("../images/background-pizza.png")  repeat 0 0;
 }
 
 main h1 {
